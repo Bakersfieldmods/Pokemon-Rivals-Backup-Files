@@ -1,0 +1,62 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl brz_base_com_mat_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd fountain.jpg
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Roselia Fountain\\Roselia Fountain\\brz_base_t.png
+
+newmtl brz_rose_com_mat_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd fountain.jpg
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Roselia Fountain\\Roselia Fountain\\brz_rose_t.png
+
+newmtl brz_stand_com_mat_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd fountain.jpg
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Roselia Fountain\\Roselia Fountain\\brz_stand_t.png
+
+newmtl ripple_MT_mat_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd fountain.jpg
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Roselia Fountain\\Roselia Fountain\\brz_w_ripple_t.png
+
+newmtl water_MT_mat_001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd fountain.jpg
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Roselia Fountain\\Roselia Fountain\\brz_water_t.png

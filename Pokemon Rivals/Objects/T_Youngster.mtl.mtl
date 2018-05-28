@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl tr0077_00_Body.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.780810 0.724829 0.550221
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - Youngster Youth Athlete Male\\Youngster\\tr0077_00_Body.tga.png
+
+newmtl tr0077_00_Eye.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465614 0.671623 0.693823
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - Youngster Youth Athlete Male\\Youngster\\tr0077_00_Eye.tga.png

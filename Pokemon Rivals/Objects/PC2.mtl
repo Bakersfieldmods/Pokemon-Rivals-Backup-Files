@@ -1,0 +1,50 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl com_bm_pc02_pc01.tga
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.586611 0.612254 0.505291
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd PC2.png
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - PC\\PC\\com_bm_pc01_pc01.tga.png
+
+newmtl com_bm_pc02_pc02.tga
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.388986 0.750012 0.737763
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd PC2.png
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - PC\\PC\\com_bm_pc01_pc02.tga.png
+
+newmtl com_bm_pc02_pc03.tga
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.434621 0.569131 0.750955
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd PC2.png
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - PC\\PC\\com_bm_pc02_pc03.tga.png
+
+newmtl com_bm_pc02_shadow.tga
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.397784 0.362278 0.366918
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd PC2.png
+map_d C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - PC\\PC\\com_bm_pc01_shadow.tga.png

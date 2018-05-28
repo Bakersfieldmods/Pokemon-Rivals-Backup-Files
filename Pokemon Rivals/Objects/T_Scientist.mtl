@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl tr0086_00_Body.tga
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.532602 0.504684 0.527246
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Admin\Downloads\3DS - Pokemon Sun Moon - Scientist\Scientist\tr0086_00_Body.tga.png
+
+newmtl tr0086_00_Eye.tga
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.545143 0.437687 0.655361
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Admin\Downloads\3DS - Pokemon Sun Moon - Scientist\Scientist\tr0086_00_Eye.tga.png

@@ -1,0 +1,80 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl lambert11
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert11.png
+map_Kd C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert11.png
+map_d C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert11.png
+
+newmtl lambert12
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert12.png
+map_Kd C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert12.png
+map_d C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert12.png
+
+newmtl lambert13
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert13.png
+map_Kd C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert13.png
+map_d C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert13.png
+
+newmtl lambert14
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert14.png
+map_Kd C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert14.png
+map_d C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert14.png
+
+newmtl lambert15
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Ka C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert15.png
+map_Kd C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert15.png
+map_d C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert15.png
+
+newmtl lambert5
+Ns 96.078431
+Ka 0.972549 0.972549 0.972549
+Kd 0.784314 0.784314 0.784314
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert5.png
+map_Kd C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert5.png
+map_d C:\\Users\\zach\\Downloads\\DS DSi - Pokemon HeartGold SoulSilver - Kanto Pokemon Gyms\\Cerulean Gym\\lambert5.png

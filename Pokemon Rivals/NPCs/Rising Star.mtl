@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl tr0080_00_Body.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.542899 0.755972 0.458525
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - Rising Star Female\\Rising Star (Female)\\tr0080_00_Body.tga.png
+
+newmtl tr0080_00_Eye.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.740627 0.504737 0.360987
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon Sun Moon - Rising Star Female\\Rising Star (Female)\\tr0080_00_Eye.tga.png

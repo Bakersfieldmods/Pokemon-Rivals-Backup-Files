@@ -1,0 +1,145 @@
+# Blender MTL File: 'None'
+# Material Count: 13
+
+newmtl plr0702_chu01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_chu01.png
+
+newmtl plr0702_kabe01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_kabe01.png
+
+newmtl plr0702_kazari01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_kazari01.png
+
+newmtl plr0702_kmn01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_kmn01.png
+
+newmtl plr0702_mado_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_mado.png
+
+newmtl plr0702_sg00_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_sg00.png
+
+newmtl plr0702_sg00b_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_sg00b.png
+
+newmtl plr0702_sg01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_sg01.png
+
+newmtl plr0702_sg02_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_sg01.png
+
+newmtl plr0702_sg03_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_sg00.png
+
+newmtl plr0702_yane01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_yane01.png
+
+newmtl plr0702_yuka01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_yuka01.png
+
+newmtl plr0702_zou01_mat
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Admin\\Downloads\\3DS - Pokemon X Y - Radiant Chamber\\Radiant Chamber\\plr0702_zou01.png

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="Pokemon.tsx"/>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+2351,2352,2353,2354,2355,2356,0,0,2038,2570,
+2459,2460,2461,2462,2463,2464,0,2145,2146,2678,
+4295,4296,4297,4407,4408,0,0,2253,2254,2786,
+4403,4404,4405,4515,4516,0,0,2361,2362,2894,
+4511,4512,4513,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,4512,4408,4404,4296,4297,0,0,
+0,0,0,0,4403,0,0,4515,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
